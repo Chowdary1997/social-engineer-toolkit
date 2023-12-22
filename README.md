@@ -1,7 +1,7 @@
 # The Social-Engineer Toolkit (SET)
-* Copyright :copyright: 2020
-* Written by: David Kennedy (ReL1K) @HackingDave 
-* Company: [TrustedSec](https://www.trustedsec.com)
+* Copyright :copyright: 2023
+* Written by: Rajendra Prasad (ReL1K) @Rajachowdary 
+*
 
 <br/>
 
@@ -39,7 +39,7 @@ You can easily install Social Engineer Toolkit on WSL/WSL2 without needing pip u
 
 #### Linux
 ```bash
-git clone https://github.com/trustedsec/social-engineer-toolkit/ setoolkit/
+git clone https://github.com/Chowdary1997/social-engineer-toolkit
 cd setoolkit
 pip3 install -r requirements.txt
 python setup.py
@@ -47,10 +47,10 @@ python setup.py
 <br/>
 
 ## SET Tutorial
-For a full document on how to use SET, [visit the SET user manual](https://github.com/trustedsec/social-engineer-toolkit/raw/master/readme/User_Manual.pdf).
+For a full document on how to use SET, [visit the SET user manual].
 
 <br/>
 
 ## Bugs and enhancements
-For bug reports or enhancements, please open an [issue](https://github.com/trustedsec/social-engineer-toolkit/issues) here.
+For bug reports or enhancements, please open an [issue] here.
 <br/>
